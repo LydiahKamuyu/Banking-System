@@ -3,6 +3,7 @@ The Above Banking System Code gives the following output when run on the ternima
 $gcc BankingSystem.c -o BankingS
 
 $./BankingS
+
                         ***********************************************
 
                                 _______BANKING SYSTEM________
@@ -13,6 +14,7 @@ $./BankingS
 
                                        
 Enter Firstname: Lydia
+
 Enter Lastname: Kamuyu
 
 please enter your account no.: 12345
@@ -23,6 +25,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 1
 
                                 __ENQUIRE BALANCE__
@@ -30,6 +33,7 @@ choose what you want to do
 your current balance is: 10000.00Ksh
 do you want to do another transaction?
 1. yes 2. no
+
 1
 
 choose what you want to do
@@ -38,6 +42,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 2
 
                                 __WITHDRAW AMMOUNT__
@@ -48,6 +53,7 @@ you've just withdrawn 10000.00Ksh
 
 do you want to do another transaction?
 1. yes 2. no
+
 1
 
 choose what you want to do
@@ -56,6 +62,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 1
 
                                 __ENQUIRE BALANCE__
@@ -63,6 +70,7 @@ choose what you want to do
 your current balance is: 0.00Ksh
 do you want to do another transaction?
 1. yes 2. no
+
 1
 
 choose what you want to do
@@ -71,6 +79,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 4
 
                                 __TRANSFER AMMOUNT__
@@ -83,6 +92,7 @@ you do not have sufficient balance
 
 do you want to do another transaction?
 1. yes 2. no
+
 1
 
 choose what you want to do
@@ -91,6 +101,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 3
 
                                 __DEPOSIT AMMOUNT__
@@ -101,6 +112,7 @@ What ammount  do you want to deposit?100000
 
 do you want to do another transaction?
 1. yes 2. no
+
 1
 
 choose what you want to do
@@ -109,6 +121,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 1
 
                                 __ENQUIRE BALANCE__
@@ -116,6 +129,7 @@ choose what you want to do
 your current balance is: 100000.00Ksh
 do you want to do another transaction?
 1. yes 2. no
+
 1
 
 choose what you want to do
@@ -124,6 +138,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 4
 
                                 __TRANSFER AMMOUNT__
@@ -136,6 +151,7 @@ how much do you want to transfer? 30000
 
 do you want to do another transaction?
 1. yes 2. no
+
 1
 
 choose what you want to do
@@ -144,6 +160,7 @@ choose what you want to do
 2 - Withdraw
 3 - Deposit
 4 - transfer
+
 1
 
                                 __ENQUIRE BALANCE__
@@ -151,6 +168,7 @@ choose what you want to do
 your current balance is: 70000.00Ksh
 do you want to do another transaction?
 1. yes 2. no
+
 2
 
                         ***************************
